@@ -25,6 +25,7 @@ jobs:
         # Container registry password
         password: lZWpE79iPIJA8WHjvYoW7QqC0aMqMC/r
         # Container registry server url
+        #random comment
         login-server: sbacr02.azurecr.io
         
     - name: Push Image  
